@@ -34,7 +34,7 @@ def run():
 
   grade = getCourseGrade(percent)
 
-  print(f"Your letter grade for CMPSC 131 is: {grade}.")
+  print(f"Your letter grade for CMPSC 131 is {grade}.")
 
 if __name__ == "__main__":
   run() 

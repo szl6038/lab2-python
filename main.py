@@ -1,9 +1,8 @@
-# Author: ShangYuan Lim szl6038@psu.edu
-# Collaborator:
-# Collaborator:
-# Collaborator:
-# Section: 
-# Breakout: 
+# Author: Shang Yuan Lim szl6038@psu.edu
+# Collaborator: Yong Lin Kwang yqk5211@psu.edu
+# Collaborator: Sean Murphy spm6407@psu.edu
+# Section: 010R
+# Breakout: 2
 
 def getCourseGrade(GradePoints):
   if GradePoints>=93.0:
